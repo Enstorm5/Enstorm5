@@ -17,9 +17,8 @@
 ### **🔹 Domains of Interest**
 - 🤖 **Machine Learning & AI**
 - 📊 **Data Science & Analytics**
-- 📝 **Natural Language Processing (NLP)*
+- 📝 **Natural Language Processing**
 - 🧠 **Deep Learning**
 - 🔢 **Big Data & Data Engineering**
 
 💡 **Always learning, always growing!**  
-🌍 **Let's connect and innovate together!**
