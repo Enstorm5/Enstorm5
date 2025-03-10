@@ -22,3 +22,17 @@
 - 🔢 **Big Data & Data Engineering**
 
 💡 **Always learning, always growing!**  
+
+# Enstorm5's GitHub Stats
+
+## Profile Summary
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Enstorm5&show_icons=true&theme=radical)
+
+## Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Enstorm5&theme=dark)
+
+## Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Enstorm5&layout=compact&theme=radical)
+
+## GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Enstorm5&theme=onedark)
