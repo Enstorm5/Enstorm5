@@ -23,7 +23,7 @@
 
 💡 **Always learning, always growing!**  
 
-# Inesh's GitHub Stats
+# GitHub Stats
 
 ## Profile Summary
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Enstorm5&show_icons=true&theme=radical)
