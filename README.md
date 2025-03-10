@@ -34,5 +34,4 @@
 ## Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Enstorm5&layout=compact&theme=radical)
 
-## GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Enstorm5&theme=onedark)
+
