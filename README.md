@@ -35,6 +35,5 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Enstorm5&layout=compact&theme=radical)
 
 ## GitHub Trophies
-## GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Enstorm5&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Enstorm5&theme=onedark&no-frame=true&column=7)
 
