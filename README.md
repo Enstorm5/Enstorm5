@@ -15,13 +15,11 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### **🔹 Domains of Interest**
-- 🤖 **Machine Learning & AI**
-- 📊 **Data Science & Analytics**
-- 📝 **Natural Language Processing**
-- 🧠 **Deep Learning**
-- 🔢 **Big Data & Data Engineering**
+-  **Machine Learning & AI**
+-  **Data Science & Analytics**
+-  **Natural Language Processing**
+-  **Deep Learning**
 
-💡 **Always learning, always growing!**  
 
 # GitHub Stats
 
